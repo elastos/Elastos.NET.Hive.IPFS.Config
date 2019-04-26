@@ -1,4 +1,4 @@
-module github.com/elastos/go-ipfs-config
+module github.com/elastos/Elastos.NET.Hive.IPFS.Config
 
 require (
 	github.com/facebookgo/atomicfile v0.0.0-20151019160806-2de1f203e7d5

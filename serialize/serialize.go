@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/elastos/go-ipfs-config"
+	"github.com/elastos/Elastos.NET.Hive.IPFS.Config"
 
 	"github.com/facebookgo/atomicfile"
 	"github.com/ipfs/go-ipfs-util"

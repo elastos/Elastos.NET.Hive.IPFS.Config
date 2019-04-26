@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"testing"
 
-	config "github.com/elastos/go-ipfs-config"
+	config "github.com/elastos/Elastos.NET.Hive.IPFS.Config"
 )
 
 func TestConfig(t *testing.T) {
